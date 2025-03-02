@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nagalaxmi-Eepuri
-- 👀 I’m interested in Python developer, SQL and AI Engineer positions
+- 👀 I’m interested in SQL developer, PowerBI developer and data analyst positions
 - 🌱 I’m currently learning Python and AI (GEN AI, LLM & NLP)
 - 💞️ I’m looking to collaborate with experienced tech
 - 📫 Reach me at https://www.linkedin.com/in/nagalaxmieepuri/
